@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapProject</string>
+    <string name="google_maps_api_key">"AIzaSyAh-sMM3pWGQZnjhSHFGKsLnFdjGIx6yzE"</string>
+</resources>
